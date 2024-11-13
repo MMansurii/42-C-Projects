@@ -6,7 +6,7 @@ Welcome to my repository, where I showcase my journey through **42 School's C pr
 
 This repository is organized into the following projects:
 
-### 1. **[Libft](./libft)**
+### 1. **[Libft](./Libft)**
    - **Description**: A custom implementation of essential C library functions, built from scratch.
    - **Status**: 🚀 Completed
    - **Purpose**: To understand and implement low-level string and memory management functions.
